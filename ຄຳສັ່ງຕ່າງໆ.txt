@@ -1,0 +1,6 @@
+echo "# My-Web-App" >> README.md
+git init
+git add README.md
+git commit -m "
+git remote add origin https://github.com/Toudev/My-Web-App.git
+git push -u origin main
